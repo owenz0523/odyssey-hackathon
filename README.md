@@ -4,12 +4,16 @@ E-Mission is an innovative website dedicated to tracking carbon emissions within
 
 ## Technology Stack
 **Frontend:** HTML, CSS
+
 **Backend:** JavaScript
+
 **APIs Used:** Google Maps API, Canadian Government Data API
 
 ## Features
 **Carbon Emission Tracking:** Utilizes advanced algorithms and data sources to accurately track carbon emissions in Brampton.
-Interactive Map: Integrates Google Maps API for a user-friendly, interactive map interface.
+
+**Interactive Map:** Integrates Google Maps API for a user-friendly, interactive map interface.
+
 **Real-Time Data:** Leverages real-time data from Canadian Government Data API for up-to-date emission tracking.
 
 ## Contributors
